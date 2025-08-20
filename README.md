@@ -41,3 +41,30 @@ QuickCalc is a modern, responsive, and animated calculator web app. It features 
 ---
 
 ## Folder Structure
+
+QuickCalc/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── README.md
+
+---
+
+## Credits
+
+-   UI/UX by Faseeh Khan
+-   Inspired by modern calculator apps
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+
+---
+
+Enjoy using **QuickCalc**!
+Feel free to contribute or suggest features.
