@@ -11,8 +11,6 @@ QuickCalc is a modern, responsive, and animated calculator web app. It features 
 
 ---
 
----
-
 ## Features
 
 -   **Responsive Design:** Works on all screen sizes (desktop, tablet, mobile).
