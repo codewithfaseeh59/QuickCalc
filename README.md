@@ -6,7 +6,7 @@ QuickCalc is a modern, responsive, and animated calculator web app. It features 
 
 ## Live Demo & Repository
 
--   **Live Demo:** (Add your GitHub Pages or Netlify link here)
+-   **Live Demo:** https://codewithfaseeh59.github.io/QuickCalc/
 -   **Repository:** https://github.com/codewithfaseeh59/QuickCalc
 
 ---
